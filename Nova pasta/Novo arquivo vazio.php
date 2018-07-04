@@ -1,0 +1,3 @@
+<?
+	echo "OLHA MUNDO" 
+?>
